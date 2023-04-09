@@ -1,0 +1,15 @@
+{
+  "name": "@zeitfall/matrix",
+  "version": "1.0.0",
+  "description": "A simple matrix library.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zeitfall/matrix.git"
+  },
+  "keywords": [
+    "matrix",
+    "typescript"
+  ],
+  "author": "zeitfall <zzeitfall@gmail.com>",
+  "license": "ISC"
+}
